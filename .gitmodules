@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/aldanaale/BA.friochek.B.git
+[submodule "frontWeb"]
+	path = frontWeb
+	url = https://github.com/mtlx14/fc_frontWeb.git
